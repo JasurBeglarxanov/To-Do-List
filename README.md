@@ -26,8 +26,8 @@ Component structure and reusable UI
 Styling with CSS and structuring a clean UI
 
 🛠️ Tech Stack
-React (CRA — Create React App)
-
+JavaScript (vanilla)
+HTML
 CSS for styling
 
 🌐 Deployment
